@@ -1,6 +1,13 @@
 {
-    "name": "wx_jdk_ts",
+    "name": "wx-sdk-ts",
     "version": "0.0.1",
-    "main": "sdk.js",
-    "license": "MIT"
+    "main": "src/sdk.js",
+    "types": "src/sdk.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/secret344/wx-sdk-ts.git"
+    },
+    "author": "secret344 (https://github.com/secret344)",
+    "license": "MIT",
+    "dependencies": {}
 }
