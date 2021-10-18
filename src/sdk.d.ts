@@ -175,7 +175,7 @@ interface WXPay extends Extra {
  * @date 18/10/2021
  * @interface XXX
  */
-interface Jdk {
+interface sdk {
     /**
      * 注入配置信息
      * JS-SDK的页面必须先注入配置信息
@@ -271,5 +271,5 @@ interface Jdk {
     miniProgram: (options: any) => void;
 }
 
-declare const wxJdk: Jdk;
-export default wxJdk;
+declare const WxSdk: sdk;
+export default WxSdk;
