@@ -1,0 +1,6 @@
+{
+    "name": "wx_jdk_ts",
+    "version": "0.0.1",
+    "main": "sdk.js",
+    "license": "MIT"
+}
