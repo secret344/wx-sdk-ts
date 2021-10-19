@@ -1,6 +1,6 @@
 {
     "name": "wxsdk_ts_commonjs",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "src/sdk.js",
     "types": "src/sdk.d.ts",
     "repository": {
